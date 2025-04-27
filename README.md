@@ -41,10 +41,11 @@ Deploy it using GitHub Pages, Vercel, Netlify, or your preferred platform.
 
 Live Demo
 Click here to see the live website
-(replace # with your deployed site link)
+https://vishakhamishra2406.github.io/Portfolio_Website/
 
 Screenshots
-(Add screenshots of your website's homepage, about, and project sections.)
+[Uploading image.png…]()
+
 
 Contact
 Feel free to reach out to me for collaboration or project inquiries!
