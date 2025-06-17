@@ -28,17 +28,17 @@ window.addEventListener('load', typeWriter);
 const projects = [
     {
         title: "Portfolio Website",
-        description: "A responsive portfolio website built with HTML, CSS, and JavaScript",
+        description: "This is my personal portfolio website designed to showcase my skills, projects, achievements, and experiences as a software developer and tech enthusiast. The website reflects my journey, from coding to hackathons, highlighting both technical and creative aspects of my profile.",
         technologies: ["HTML", "CSS", "JavaScript"],
         image: "assets/images/portfolio.png",
-        link: "#"
+        link: "http://127.0.0.1:5500/"
     },
     {
-        title: "Project 2",
-        description: "Description of your second project",
-        technologies: ["React", "Node.js", "MongoDB"],
-        image: "assets/images/project2.png",
-        link: "#"
+        title: "Leet-Metric",
+        description: "LeetMetric is a responsive web application that allows users to track and visualize their LeetCode problem-solving progress. By entering a valid LeetCode username, the app fetches and displays the number of problems solved in different difficulty categories—Easy, Medium, and Hard. It features animated progress rings, a clean user interface, and smooth user interaction to encourage consistent coding practice.",
+        technologies: ["HTML", "CSS", "JavaScript"],
+        image: "C:\Users\hp5cd\OneDrive\Desktop\Portfolio\LeetLogo.png",
+        link: "https://vishakhamishra2406.github.io/Leet-Metrics/"
     },
     {
         title: "Project 3",
