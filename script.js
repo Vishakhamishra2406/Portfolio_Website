@@ -27,17 +27,17 @@ window.addEventListener('load', typeWriter);
 // Dynamic projects data
 const projects = [
     {
-        title: "Portfolio Website",
-        description: "This is my personal portfolio website designed to showcase my skills, projects, achievements, and experiences as a software developer and tech enthusiast. The website reflects my journey, from coding to hackathons, highlighting both technical and creative aspects of my profile.",
-        technologies: ["HTML", "CSS", "JavaScript"],
-        image: "assets/images/portfolio.png",
-        link: "http://127.0.0.1:5500/"
+        title: "Weather Application",
+        description: "The Weather Application is a user-friendly web-based tool that provides real-time weather updates for any city entered by the user. It leverages API integration to fetch current weather data and displays it dynamically on the web page. The application is designed to offer a clean interface, allowing users to easily check the temperature, weather conditions, and other relevant details.",
+        technologies: ["HTML", "CSS", "JavaScript","Bootstrap"],
+        image: "https://static.vecteezy.com/system/resources/previews/020/274/817/original/sun-with-cloud-in-flat-icon-weather-app-forecast-summer-climate-free-vector.jpg",
+        link: "https://vishakhamishra2406.github.io/Weather-Application/"
     },
     {
         title: "Leet-Metric",
         description: "LeetMetric is a responsive web application that allows users to track and visualize their LeetCode problem-solving progress. By entering a valid LeetCode username, the app fetches and displays the number of problems solved in different difficulty categories—Easy, Medium, and Hard. It features animated progress rings, a clean user interface, and smooth user interaction to encourage consistent coding practice.",
         technologies: ["HTML", "CSS", "JavaScript"],
-        image: "C:\Users\hp5cd\OneDrive\Desktop\Portfolio\LeetLogo.png",
+        image: "https://tse3.mm.bing.net/th/id/OIP.6rTS0lk6vicYKzwt0v69ygHaE8?pid=Api&P=0&h=180",
         link: "https://vishakhamishra2406.github.io/Leet-Metrics/"
     },
     {
@@ -78,10 +78,8 @@ const skills = [
     { name: "CSS", level: 85 },
     { name: "JavaScript", level: 80 },
     { name: "React", level: 75 },
-    { name: "Node.js", level: 70 },
-    { name: "Python", level: 80 },
-    { name: "Java", level: 75 },
-    { name: "SQL", level: 70 }
+    { name: "Bootstrap", level: 80 },
+    { name: "Java", level: 75 }
 ];
 
 // Load skills with animation
