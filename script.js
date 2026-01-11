@@ -88,23 +88,12 @@ const skills = [
     { name: "React.js", level: 75, category: "Web Technologies" },
     { name: "CSS Flexbox", level: 80, category: "Web Technologies" },
     { name: "Responsive Design", level: 85, category: "Web Technologies" },
-    { name: "LangChain", level: 70, category: "Frameworks/Tools" },
-    { name: "Streamlit", level: 75, category: "Frameworks/Tools" },
-    { name: "Git", level: 80, category: "Frameworks/Tools" },
-    { name: "GitHub", level: 80, category: "Frameworks/Tools" },
-    { name: "VS Code", level: 85, category: "Frameworks/Tools" },
-    { name: "Gemini API", level: 70, category: "APIs/Packages" },
-    { name: "FAISS", level: 65, category: "APIs/Packages" },
-    { name: "PyMuPDF", level: 70, category: "APIs/Packages" },
-    { name: "dotenv", level: 75, category: "APIs/Packages" },
     { name: "MySQL", level: 70, category: "Database" },
     { name: "Firebase", level: 65, category: "Database" },
-    { name: "Data Structures", level: 80, category: "CS Fundamentals" },
-    { name: "Algorithms", level: 75, category: "CS Fundamentals" },
+    { name: "Data Structures & Algorithms", level: 78, category: "CS Fundamentals" },
     { name: "DBMS", level: 70, category: "CS Fundamentals" },
     { name: "OOPs", level: 80, category: "CS Fundamentals" },
-    { name: "Operating Systems", level: 70, category: "CS Fundamentals" },
-    { name: "Software Development Lifecycle", level: 75, category: "CS Fundamentals" }
+    { name: "Operating Systems", level: 70, category: "CS Fundamentals" }
 ];
 
 // Load skills with animation
